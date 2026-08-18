@@ -33,8 +33,8 @@ Executive Abstract: Independently identified, championed, and led a data-driven 
 
 Current Academic & Professional Progression
 CompTIA Security+ | In-Progress Target (Expected Completion: Autumn 2026)
-Project Management Professional (PMP)® | Verify on Credly
-PMI Agile Certified Practitioner (PMI-ACP)® | Verify on Credly
+Project Management Professional (PMP)® | [Verify on Credly](https://www.credly.com/badges/ea26d8f7-eb15-46e1-87d7-95f760eeccbb/public_url)
+PMI Agile Certified Practitioner (PMI-ACP)® | [Verify on Credly](https://www.credly.com/badges/0ec03556-e3cc-4a96-8694-4bff6de70e02)
 
-Contact: Email: [rueshannamorris@gmail.com](mailto:rueshannamorris@gmail.com)
+Contact: [rueshannamorris@gmail.com](mailto:rueshannamorris@gmail.com)
  | [LinkedIn Profile](https://www.linkedin.com/in/rueshannamorris)
