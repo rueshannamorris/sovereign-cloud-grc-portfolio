@@ -26,7 +26,7 @@ System Integrity Verification • Schema Validation Planning • Cross‑Functio
 Quantitative Risk Registries • Operational Continuity • Project Management Artifact Architecture
 
 **Technical Systems & Workflow Tools:**  
-Jira • ClickUp • Power BI • SharePoint Architecture • Splunk (Audit Interface) • Git
+Jira • ClickUp • SharePoint • GitHub • Salesforce (Workflow & Data Governance) • Customer Database Systems (Data Integrity & Workflow Validation) • Basic SQL (Query Fundamentals)
 
 ---
 
