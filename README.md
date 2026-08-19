@@ -65,8 +65,8 @@ Independently identified, championed, and led a data‑driven risk intervention 
 - **CompTIA Security+** — In Progress (Expected Completion: Autumn 2026)  
 - **Project Management Professional (PMP)®** — [Verify on Credly](https://www.credly.com/badges/ea26d8f7-eb15-46e1-87d7-95f760eeccbb/public_url)  
 - **PMI Agile Certified Practitioner (PMI‑ACP)®** — [Verify on Credly](https://www.credly.com/badges/0ec03556-e3cc-4a96-8694-4bff6de70e02)  
-- **Contracting Officer’s Representative (COR) Level II**  
-- **Lean Six Sigma Green Belt (LSSGB)**  
+- **Contracting Officer’s Representative (COR) Level II** — Management Concepts  
+- **Lean Six Sigma Green Belt (LSSGB)** — AIGPE  
 - **B.Sc. Environmental Policy & Management** — Focus on regulatory systems, environmental compliance, and public‑sector governance
 
 
