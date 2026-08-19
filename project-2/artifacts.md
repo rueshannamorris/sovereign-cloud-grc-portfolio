@@ -33,7 +33,7 @@ This charter formally authorizes the technical project lifecycle for the **multi
 
 ---
 
-## 📊 **Artifact B: Integrated Risk Register, Issue Log, & Activity Log**  
+## 📜 **Artifact B: Integrated Risk Register, Issue Log, & Activity Log**  
 **Control Reference:** NIST SP 800‑53 Rev. 5 — SI‑7 (Information System Integrity), CM‑3 (Configuration Change Control)  
 **Maintained by:** Rueshanna Morris, PMP, PMI‑ACP
 
@@ -52,7 +52,7 @@ This charter formally authorizes the technical project lifecycle for the **multi
 
 ---
 
-## 👥 **Artifact C: Decision Log & Lessons Learned Register**  
+## 📜 **Artifact C: Decision Log & Lessons Learned Register**  
 **Control Reference:** NIST SP 800‑53 Rev. 5 — AC‑2 (Account Management), PL‑4 (Rules of Behavior)  
 **Maintained by:** Rueshanna Morris, PMP, PMI‑ACP
 
