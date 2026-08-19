@@ -5,6 +5,8 @@ Highly analytical **Governance, Risk, and Compliance (GRC)** and **Technical Pro
 
 Certified **Project Management Professional (PMP)®** and **PMI Agile Certified Practitioner (PMI‑ACP)®** with demonstrated expertise leading cross‑functional teams, enforcing **strict configuration change controls**, and anchoring **system baseline integrity** amid organizational volatility.
 
+United States Navy veteran with foundational experience in mission‑critical operations and public‑sector compliance environments.
+
 This repository is an **open‑source technical portfolio** presenting retrospective architectural analyses of real‑world deployments I led and supported. Each project maps operational workflows to federal data security frameworks, including **NIST SP 800‑53 Rev. 5**, **FedRAMP Baselines**, and **SOC 2 Type 2** criteria.
 
 ---
