@@ -27,11 +27,13 @@ The Logic Implementation: I evaluated the data path architectures to verify that
 The GRC Approach: Eliminating operational risk during multi-asset transitions requires moving from a "people-dependent" model to a standardized "process-dependent" model.
 The Logic Implementation: I structured the formal hand-off boundaries linking End-Customer Advisors, Technical Support Engineers, and the Partner Platform Lead to ensure a stabilized, audit-ready steady state.
 
-🗂 Project Repository Artifacts
-See artifacts.md for the full sovereign access governance documentation associated with this project:
+## 🗂 Project Repository Artifacts
 
-Artifact A: Role-Based Access Control (RBAC) Matrix
-Control Reference: NIST SP 800‑53 Rev. 5 — AC‑2 (Account Management), AC‑3 (Access Enforcement)
+See the full sovereign access governance documentation associated with this project in  
+[project-1/artifacts.md](./artifacts.md):
 
-Artifact B: Sovereign Boundary Access Protocol Blueprint
-Control Reference: NIST SP 800‑53 Rev. 5 — SC‑7 (Boundary Protection), SA‑9 (External System Services)
+- **Artifact A:** Role-Based Access Control (RBAC) Matrix  
+  *Control Reference: NIST SP 800‑53 Rev. 5 — AC‑2 (Account Management), AC‑3 (Access Enforcement)*
+
+- **Artifact B:** Sovereign Boundary Access Protocol Blueprint  
+  *Control Reference: NIST SP 800‑53 Rev. 5 — SC‑7 (Boundary Protection), SA‑9 (External System Services)*
