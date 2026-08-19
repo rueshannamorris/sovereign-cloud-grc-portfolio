@@ -51,5 +51,6 @@ FRAMEWORK VALIDATION TARGET: FEDRAMP MODERATE BASELINE
 
    - Else: grant a role-scoped session over an encrypted tunnel.
 
-Current Academic & Professional Progression: View Top-Level README](../README.md)
+Current Academic & Professional Progression: 
+[View Top-Level README](../README.md)
 
