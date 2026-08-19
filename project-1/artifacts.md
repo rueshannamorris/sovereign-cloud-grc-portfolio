@@ -10,7 +10,7 @@ The following artifacts are **sanitized, illustrative functional‑requirement m
 
 ---
 
-## **Artifact A: Role‑Based Access Control (RBAC) Matrix**  
+## 📜 **Artifact A: Role‑Based Access Control (RBAC) Matrix**  
 **Control Reference:** NIST SP 800‑53 Rev. 5 — AC‑2 (Account Management), AC‑3 (Access Enforcement)
 
 **Purpose:**  
