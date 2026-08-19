@@ -46,7 +46,7 @@ Retrospective technical analysis of an isolated, US‑only sovereign cloud infra
 **Domain:** Change Management, Protocol Enforcement, Project Continuity, Order Procurement  
 **Target Framework Controls:** NIST SP 800‑53 Rev. 5 — CM‑3 (Configuration Change Control), SI‑7 (Information System Integrity), CM‑8 (Information System Component Inventory)  
 **Executive Abstract:**  
-Co‑planned and directed the project governance framework for a high‑consequence database migration transferring **1,300+ active federal endpoints** into secure cloud boundaries. Served as the central anchor for protocol enforcement and baseline continuity through periods of high stakeholder turnover.  
+Co‑planned and directed the project governance framework for a high‑consequence database migration transferring **140+ active federal endpoints** into secure cloud boundaries. Served as the central anchor for protocol enforcement and baseline continuity through periods of high stakeholder turnover.  
 👉 **[Project 2 README](./project-2/README.md)**  
 👉 **[Project 2 Artifacts](./project-2/artifacts.md)**
 
