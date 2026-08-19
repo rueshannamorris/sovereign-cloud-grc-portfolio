@@ -1,7 +1,7 @@
 # **Sovereign Cloud Infrastructure & Enterprise Risk Governance Portfolio**
 
 ## **Professional Overview**
-Highly analytical **GRC Program Manager** with a decade of leadership managing **high-consequence compliance environments, multi-agency infrastructure deployments,** and **framework validations **across defense and regulated public-sector markets. U.S. Navy veteran, **PMP®** and **PMI-ACP®** certified, with demonstrated expertise leading cross-functional teams, enforcing **configuration change controls**, and anchoring **system baseline integrity** amid organizational volatility.
+Highly analytical **GRC Program Manager** with a decade of leadership managing **high-consequence compliance environments, multi-agency infrastructure deployments,** and **framework validations** across defense and regulated public-sector markets. U.S. Navy veteran, **PMP®** and **PMI-ACP®** certified, with demonstrated expertise leading cross-functional teams, enforcing **configuration change controls**, and anchoring **system baseline integrity** amid organizational volatility.
 
 This repository is an **open-source technical portfolio** mapping real-world deployments I led and supported to federal data security frameworks, including **NIST SP 800-53 Rev. 5, FedRAMP Baselines**, and **SOC 2 Type 2**.
 
