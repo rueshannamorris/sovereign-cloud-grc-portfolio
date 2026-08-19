@@ -35,7 +35,8 @@ Jira • ClickUp • Power BI • SharePoint Architecture • Splunk (Audit Inte
 **Target Framework Controls:** NIST SP 800‑53 Rev. 5 — AC‑2 (Account Management), AC‑3 (Access Enforcement), SA‑9 (External System Services)  
 **Executive Abstract:**  
 Retrospective technical analysis of an isolated, US‑only sovereign cloud infrastructure support framework I supported as a Strategic Advisor, enabling a global telecommunications carrier to deliver authorized fleet management solutions to US federal agencies.  
-👉 **[Explore Project 1](./project-1/README.md)**
+👉 **[Project 1 README](./project-1/README.md)**  
+👉 **[Project 1 Artifacts](./project-1/artifacts.md)**
 
 ---
 
@@ -44,7 +45,8 @@ Retrospective technical analysis of an isolated, US‑only sovereign cloud infra
 **Target Framework Controls:** NIST SP 800‑53 Rev. 5 — CM‑3 (Configuration Change Control), SI‑7 (Information System Integrity), CM‑8 (Information System Component Inventory)  
 **Executive Abstract:**  
 Co‑planned and directed the project governance framework for a high‑consequence database migration transferring **1,300+ active federal endpoints** into secure cloud boundaries. Served as the central anchor for protocol enforcement and baseline continuity through periods of high stakeholder turnover.  
-👉 **[Explore Project 2](./project-2/README.md)**
+👉 **[Project 2 README](./project-2/README.md)**  
+👉 **[Project 2 Artifacts](./project-2/artifacts.md)**
 
 ---
 
@@ -53,7 +55,8 @@ Co‑planned and directed the project governance framework for a high‑conseque
 **Target Framework Controls:** NIST SP 800‑53 Rev. 5 — PM‑28 (Risk Management Strategy), PL‑4 (Rules of Behavior), CM‑9 (Configuration Management Plan)  
 **Executive Abstract:**  
 Independently identified, championed, and led a data‑driven risk intervention and process automation initiative within a Tier‑1 public‑sector pre‑order validation environment, transforming a **23‑step manual workflow** into an automated pipeline that collapsed cycle time by **up to 90%**.  
-👉 **[Explore Project 3](./project-3/README.md)**
+👉 **[Project 3 README](./project-3/README.md)**  
+👉 **[Project 3 Artifacts](./project-3/artifacts.md)**
 
 ---
 
